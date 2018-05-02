@@ -28,8 +28,8 @@ cd libpcap-1.8.1
 make
 make install
 
-git clone https://github.com/794959818/pubgradar.git
-cd pubgradar/
+git clone https://github.com/894724485/PUBG123.git
+cd PUBG123/
 npm i
 npm i -g pino
 npm install -g forever
