@@ -1,6 +1,7 @@
 #!/bin/bash
 echo "欢迎使用一键搭建"
 echo "即将搭建的是私人雷达版本"
+echo "作者QQ894724485"
 echo "准备开始安装"
 read -p "回车后开始安装"
 echo "请输入你的内网ip" 
@@ -36,5 +37,6 @@ npm install -g forever
 forever start index.js sniff eth0 $ip | pino
 
 echo "搭建完成"
-echo "并不是一个人在战斗，加入我们6698530@qq.com"
+echo "并不是一个人在战斗，加入我们QQ群628195840"
 echo "你能加上你的QQ，但加不上我的心"
+echo "BY894724485"
